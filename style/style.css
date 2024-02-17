@@ -355,3 +355,32 @@ button{
     padding: 20px;
     margin-bottom: 80px;
 }
+/* foooter section */
+.footer{
+    background: #070211;
+    width: 1260px;
+    height: 500px;
+}
+.address{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 150px;
+}
+.address p{
+    color: white;
+}
+.contact{
+    display: flex;
+}
+.social{
+    text-align: center;
+    padding-right: 20px;
+}
+.copywrite{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 150px;
+}
+.copywrite p{
+    color: #FFF;
+}
