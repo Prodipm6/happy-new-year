@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Merriweather", serif;
+    font-family: "Inter", sans-serif;
+}
+/* Header section style */
+.banner-content {
+    background-image: url('/assets/Banner\ Image.png');
+    border-radius: 16px;
+    background-position: center;
+    width: 1100px;
+    height: 600px;
+    margin: 20px 100px 100px;
+}
+
+.banner-welcome {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 170px;
+}
+
+.banner-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+}
